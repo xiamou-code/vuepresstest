@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,a as e,b as r}from"./app.31b5c625.js";const s={},c=e("h1",{id:"\u604B\u7231\u5546\u57CE",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#\u604B\u7231\u5546\u57CE","aria-hidden":"true"},"#"),r(" \u604B\u7231\u5546\u57CE")],-1),_=[c];function n(d,h){return o(),t("div",null,_)}var i=a(s,[["render",n],["__file","loveshop.html.vue"]]);export{i as default};
