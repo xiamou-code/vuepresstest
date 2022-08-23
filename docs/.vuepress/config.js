@@ -17,18 +17,18 @@ module.exports = {
                 link: '/javascript/',
             },
             {
-                text:'Vue.js',
-                link:'/vue/'
+                text: 'Vue.js',
+                link: '/vue/'
             },
             {
                 text: 'Node.js',
                 link: '/nodejs/'
             },
             {
-                text:'项目实战',
-                children:[
-                    {text:'恋爱商城',link:'/project/loveshop'},
-                    {text:'大唐官员管理系统',link:'/project/tangofficials'}
+                text: '项目实战',
+                children: [
+                    { text: '恋爱商城', link: '/project/loveshop' },
+                    { text: '大唐官员管理系统', link: '/project/tangofficials' }
                 ]
             },
             {
